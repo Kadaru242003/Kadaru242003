@@ -9,10 +9,15 @@ Currently a Graduate Instructional Assistant for GW's Data Science for All cours
 - Email: Kadaruharshith@gmail.com
 
 ## 🛠️ Tech Stack
+
 **Languages:** Python, R, SQL, TypeScript, JavaScript
+
 **ML/Data:** pandas, NumPy, scikit-learn, statistical modeling, A/B testing, feature engineering
+
 **AI/LLM:** LangChain, RAG, Sentence Transformers, ChromaDB, prompt engineering
+
 **Backend/Web:** FastAPI, Django, React, REST APIs, WebSockets, Streamlit
+
 **Cloud & Data:** GCP (Cloud Run, Cloud SQL), AWS, Docker, Redis, MySQL, MongoDB, Neo4j, ETL pipelines, Power BI
 
 ## 📌 Featured Projects
